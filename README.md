@@ -21,9 +21,10 @@
 
 ## 数据集和模型
 
-MNIST 数据集需要手动下载。
+MNIST 数据集和训练好的模型文件需要手动下载。
 
 -   MNIST 数据集：https://drive.google.com/drive/folders/1UXBAJP_NCJBkp43vbNfZdjswmhrdSxdT?usp=sharing
+-   训练好的模型文件：https://drive.google.com/drive/folders/17YM0Z9woXUFX2gkSZzfcY7MN1px9ViWz?usp=sharing
 
 请将下载的 MNIST 数据集解压后放置在 `dataset/MNIST/` 目录下，并将训练好的模型文件 `best_model.pickle` 放置在 `saved_models/` 目录下。
 
